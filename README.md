@@ -1,5 +1,7 @@
 # Google Summer of Code
 
+[![Join the chat at https://gitter.im/pysal/GSOC-2022-streetsimplification](https://badges.gitter.im/pysal/GSOC-2022-streetsimplification.svg)](https://gitter.im/pysal/GSOC-2022-streetsimplification?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | [Sub organizations](#sub-organizations) | [IDEAS LIST][IL] | [Student guides][CONTRIBUTING]  |
 
 [NumFOCUS][] will be applying again as an umbrella mentoring organization
